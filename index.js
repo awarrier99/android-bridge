@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNAndroidBridge } = NativeModules;
+const { UserDao } = NativeModules;
 
-export default RNAndroidBridge;
+export default UserDao;
