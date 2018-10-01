@@ -42,4 +42,3 @@ import RNAndroidBridge from 'react-native-android-bridge';
 // TODO: What to do with the module?
 RNAndroidBridge;
 ```
-  

@@ -11,11 +11,11 @@
     "react-native"
   ],
   "author": "Ashvin Warrier",
-  "homepage": "https://github.com/awarrier99/android-bridge/#readme",
+  "homepage": "https://github.com/awarrier99/react-native-android-bridge/#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awarrier99/android-bridge.git"
+    "url": "https://github.com/awarrier99/react-native-android-bridge.git"
   },
   "peerDependencies": {
     "react-native": "^0.41.2"
